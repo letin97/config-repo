@@ -1,2 +1,2 @@
-server:
-  contextPath: /repo
+my:
+  prop: acount-development
